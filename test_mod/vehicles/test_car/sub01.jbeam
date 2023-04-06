@@ -1,0 +1,15 @@
+{
+    "test_car_sub_01_jbeam":{
+        "information":{
+            "authors":"lucky4luuk",
+            "name":"Subpart 1"
+        },
+        "slotType": "sub_01",
+
+        "nodes":[
+            ["id", "posX", "posY", "posZ"],
+            ["sub_01_tc", 0,0,0],
+            ["sub_01_tu", 0,0,1]
+        ]
+    }
+}
